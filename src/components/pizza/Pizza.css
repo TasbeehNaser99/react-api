@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&display=swap');
+.view{
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-bottom: 30px solid #ffa948;
+    border-top: 30px solid #ffa948;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Alumni Sans Collegiate One';
+}
+img{
+    border: 1px solid #d70d0d;
+    padding: 10px;
+    
+}
