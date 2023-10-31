@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
-.link{
+/* .link{
     text-decoration: none;
     list-style-type: none;
     color: #ffa948;
     font-family: 'Metal Mania';
     font-size: 40px;
+} */
+.h1-restaurent{
+    color: #ffa948;
 }
